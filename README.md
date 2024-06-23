@@ -17,6 +17,6 @@ Cleaning individual columns.
 Remove the NaN values from the dataset
 Check for some more Transformations
 
-3.Data Visualization
+3.Data Visualization :
 Restaurants delivering Online or not
 Restaurants allowing table booking or not
